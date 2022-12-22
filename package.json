@@ -1,0 +1,24 @@
+{
+  "name": "crud-task-api-nodejs",
+  "version": "1.0.0",
+  "description": "This is API CRUD TASK using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachmadi15/crud-task-api-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachmadi15/crud-task-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/rachmadi15/crud-task-api-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1"
+  }
+}
